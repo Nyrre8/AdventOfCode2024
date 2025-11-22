@@ -1,4 +1,11 @@
-void main () throws IOException {
-HistorianHysteria hh = new HistorianHysteria();
+
+
+
+
+
+void main() throws IOException {
+
+// HistorianHysteria hh = new HistorianHysteria();
+RedNosedReports rnr = new RedNosedReports();
 
 }

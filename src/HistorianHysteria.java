@@ -10,7 +10,7 @@ public class HistorianHysteria {
 
     public HistorianHysteria() throws IOException {
 
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\erikv\\IdeaProjects\\AdventCalendar\\src\\input.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("input.txt"));
         String line;
 
         ArrayList<Integer> leftColumn = new ArrayList<Integer>();
